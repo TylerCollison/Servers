@@ -1,0 +1,7 @@
+{
+    "clientId": "google",
+    "clientSecret": "googleSecret", 
+    "expectedResponseType": "code", 
+    "projectId": "bank-of-america-af9b0",
+    "expectedRedirectUriHost": "https://oauth-redirect.googleusercontent.com/r/"
+}

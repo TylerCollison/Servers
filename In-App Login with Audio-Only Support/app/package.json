@@ -1,0 +1,11 @@
+{
+  "name": "ios-android-fulfillment",
+  "version": "1.0.0",
+  "description": "A fulfillment server that uses a tunnel to a Bank of America app to fulfill data requests",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Collison",
+  "license": "ISC"
+}

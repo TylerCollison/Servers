@@ -1,0 +1,14 @@
+{
+  "name": "aog-static-response",
+  "version": "1.0.0",
+  "description": "Sends a static response to Actions on Google in response to a balance query",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Collison",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^1.1.1"
+  }
+}
